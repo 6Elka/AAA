@@ -9,21 +9,39 @@
 /* Begin PBXBuildFile section */
 		ACA77EB1297F1B130004E522 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACA77EB0297F1B130004E522 /* AppDelegate.swift */; };
 		ACA77EB3297F1B130004E522 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACA77EB2297F1B130004E522 /* SceneDelegate.swift */; };
-		ACA77EB5297F1B130004E522 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACA77EB4297F1B130004E522 /* ViewController.swift */; };
-		ACA77EB8297F1B130004E522 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ACA77EB6297F1B130004E522 /* Main.storyboard */; };
 		ACA77EBA297F1B140004E522 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ACA77EB9297F1B140004E522 /* Assets.xcassets */; };
-		ACA77EBD297F1B140004E522 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ACA77EBB297F1B140004E522 /* LaunchScreen.storyboard */; };
+		ACAFC8CA297FB79D0062F34A /* PayPizzaViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACAFC8C5297FB79D0062F34A /* PayPizzaViewController.swift */; };
+		ACAFC8CB297FB79D0062F34A /* PizzaFoodViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACAFC8C6297FB79D0062F34A /* PizzaFoodViewController.swift */; };
+		ACAFC8CC297FB79D0062F34A /* RegistrationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACAFC8C7297FB79D0062F34A /* RegistrationViewController.swift */; };
+		ACAFC8CD297FB79D0062F34A /* DescriptionPizza.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACAFC8C8297FB79D0062F34A /* DescriptionPizza.swift */; };
+		ACAFC8CE297FB79D0062F34A /* MenuViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACAFC8C9297FB79D0062F34A /* MenuViewController.swift */; };
+		ACAFC8E3297FB7C40062F34A /* Extension + UISwitch.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACAFC8DE297FB7C40062F34A /* Extension + UISwitch.swift */; };
+		ACAFC8E4297FB7C40062F34A /* Extension + UIImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACAFC8E2297FB7C40062F34A /* Extension + UIImageView.swift */; };
+		ACAFC8E5297FB7C40062F34A /* Extension + UILabel.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACAFC8DD297FB7C40062F34A /* Extension + UILabel.swift */; };
+		ACAFC8E6297FB7C40062F34A /* Extension + UIStackView.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACAFC8E0297FB7C40062F34A /* Extension + UIStackView.swift */; };
+		ACAFC8E7297FB7C40062F34A /* Extension + UITextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACAFC8DF297FB7C40062F34A /* Extension + UITextField.swift */; };
+		ACAFC8E8297FB7C40062F34A /* Extension + UIButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACAFC8E1297FB7C40062F34A /* Extension + UIButton.swift */; };
+		ACAFC8F2297FC05C0062F34A /* Validator.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACAFC8F1297FC05C0062F34A /* Validator.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		ACA77EAD297F1B130004E522 /* Pizza.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Pizza.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		ACA77EB0297F1B130004E522 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		ACA77EB2297F1B130004E522 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		ACA77EB4297F1B130004E522 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		ACA77EB7297F1B130004E522 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		ACA77EB9297F1B140004E522 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		ACA77EBC297F1B140004E522 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		ACA77EBE297F1B140004E522 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		ACAFC8C5297FB79D0062F34A /* PayPizzaViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PayPizzaViewController.swift; sourceTree = "<group>"; };
+		ACAFC8C6297FB79D0062F34A /* PizzaFoodViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PizzaFoodViewController.swift; sourceTree = "<group>"; };
+		ACAFC8C7297FB79D0062F34A /* RegistrationViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RegistrationViewController.swift; sourceTree = "<group>"; };
+		ACAFC8C8297FB79D0062F34A /* DescriptionPizza.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DescriptionPizza.swift; sourceTree = "<group>"; };
+		ACAFC8C9297FB79D0062F34A /* MenuViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MenuViewController.swift; sourceTree = "<group>"; };
+		ACAFC8DD297FB7C40062F34A /* Extension + UILabel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Extension + UILabel.swift"; sourceTree = "<group>"; };
+		ACAFC8DE297FB7C40062F34A /* Extension + UISwitch.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Extension + UISwitch.swift"; sourceTree = "<group>"; };
+		ACAFC8DF297FB7C40062F34A /* Extension + UITextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Extension + UITextField.swift"; sourceTree = "<group>"; };
+		ACAFC8E0297FB7C40062F34A /* Extension + UIStackView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Extension + UIStackView.swift"; sourceTree = "<group>"; };
+		ACAFC8E1297FB7C40062F34A /* Extension + UIButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Extension + UIButton.swift"; sourceTree = "<group>"; };
+		ACAFC8E2297FB7C40062F34A /* Extension + UIImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Extension + UIImageView.swift"; sourceTree = "<group>"; };
+		ACAFC8F1297FC05C0062F34A /* Validator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Validator.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,15 +74,65 @@
 		ACA77EAF297F1B130004E522 /* Pizza */ = {
 			isa = PBXGroup;
 			children = (
-				ACA77EB0297F1B130004E522 /* AppDelegate.swift */,
-				ACA77EB2297F1B130004E522 /* SceneDelegate.swift */,
-				ACA77EB4297F1B130004E522 /* ViewController.swift */,
-				ACA77EB6297F1B130004E522 /* Main.storyboard */,
-				ACA77EB9297F1B140004E522 /* Assets.xcassets */,
-				ACA77EBB297F1B140004E522 /* LaunchScreen.storyboard */,
-				ACA77EBE297F1B140004E522 /* Info.plist */,
+				ACAFC8E9297FB7F10062F34A /* Supporting */,
+				ACAFC8C4297FB79D0062F34A /* Controllers */,
+				ACAFC8F3297FC30E0062F34A /* Others */,
+				ACAFC8EE297FC04D0062F34A /* Model */,
+				ACAFC8DC297FB7C40062F34A /* Extensions */,
 			);
 			path = Pizza;
+			sourceTree = "<group>";
+		};
+		ACAFC8C4297FB79D0062F34A /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				ACAFC8C7297FB79D0062F34A /* RegistrationViewController.swift */,
+				ACAFC8C9297FB79D0062F34A /* MenuViewController.swift */,
+				ACAFC8C6297FB79D0062F34A /* PizzaFoodViewController.swift */,
+				ACAFC8C8297FB79D0062F34A /* DescriptionPizza.swift */,
+				ACAFC8C5297FB79D0062F34A /* PayPizzaViewController.swift */,
+			);
+			name = Controllers;
+			path = ../../Autharization/Autharization/Controllers;
+			sourceTree = "<group>";
+		};
+		ACAFC8DC297FB7C40062F34A /* Extensions */ = {
+			isa = PBXGroup;
+			children = (
+				ACAFC8E1297FB7C40062F34A /* Extension + UIButton.swift */,
+				ACAFC8E0297FB7C40062F34A /* Extension + UIStackView.swift */,
+				ACAFC8DD297FB7C40062F34A /* Extension + UILabel.swift */,
+				ACAFC8DE297FB7C40062F34A /* Extension + UISwitch.swift */,
+				ACAFC8DF297FB7C40062F34A /* Extension + UITextField.swift */,
+				ACAFC8E2297FB7C40062F34A /* Extension + UIImageView.swift */,
+			);
+			path = Extensions;
+			sourceTree = "<group>";
+		};
+		ACAFC8E9297FB7F10062F34A /* Supporting */ = {
+			isa = PBXGroup;
+			children = (
+				ACA77EB0297F1B130004E522 /* AppDelegate.swift */,
+				ACA77EB2297F1B130004E522 /* SceneDelegate.swift */,
+			);
+			path = Supporting;
+			sourceTree = "<group>";
+		};
+		ACAFC8EE297FC04D0062F34A /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				ACAFC8F1297FC05C0062F34A /* Validator.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		ACAFC8F3297FC30E0062F34A /* Others */ = {
+			isa = PBXGroup;
+			children = (
+				ACA77EB9297F1B140004E522 /* Assets.xcassets */,
+				ACA77EBE297F1B140004E522 /* Info.plist */,
+			);
+			path = Others;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -125,9 +193,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				ACA77EBD297F1B140004E522 /* LaunchScreen.storyboard in Resources */,
 				ACA77EBA297F1B140004E522 /* Assets.xcassets in Resources */,
-				ACA77EB8297F1B130004E522 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -138,32 +204,24 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				ACA77EB5297F1B130004E522 /* ViewController.swift in Sources */,
+				ACAFC8F2297FC05C0062F34A /* Validator.swift in Sources */,
+				ACAFC8CD297FB79D0062F34A /* DescriptionPizza.swift in Sources */,
+				ACAFC8CC297FB79D0062F34A /* RegistrationViewController.swift in Sources */,
+				ACAFC8CB297FB79D0062F34A /* PizzaFoodViewController.swift in Sources */,
+				ACAFC8E7297FB7C40062F34A /* Extension + UITextField.swift in Sources */,
+				ACAFC8E5297FB7C40062F34A /* Extension + UILabel.swift in Sources */,
+				ACAFC8E6297FB7C40062F34A /* Extension + UIStackView.swift in Sources */,
 				ACA77EB1297F1B130004E522 /* AppDelegate.swift in Sources */,
+				ACAFC8CA297FB79D0062F34A /* PayPizzaViewController.swift in Sources */,
+				ACAFC8E8297FB7C40062F34A /* Extension + UIButton.swift in Sources */,
 				ACA77EB3297F1B130004E522 /* SceneDelegate.swift in Sources */,
+				ACAFC8CE297FB79D0062F34A /* MenuViewController.swift in Sources */,
+				ACAFC8E3297FB7C40062F34A /* Extension + UISwitch.swift in Sources */,
+				ACAFC8E4297FB7C40062F34A /* Extension + UIImageView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
-
-/* Begin PBXVariantGroup section */
-		ACA77EB6297F1B130004E522 /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				ACA77EB7297F1B130004E522 /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
-		ACA77EBB297F1B140004E522 /* LaunchScreen.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				ACA77EBC297F1B140004E522 /* Base */,
-			);
-			name = LaunchScreen.storyboard;
-			sourceTree = "<group>";
-		};
-/* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
 		ACA77EBF297F1B140004E522 /* Debug */ = {
@@ -288,10 +346,9 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = Pizza/Info.plist;
+				INFOPLIST_FILE = Pizza/Others/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
-				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -315,10 +372,9 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = Pizza/Info.plist;
+				INFOPLIST_FILE = Pizza/Others/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
-				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
